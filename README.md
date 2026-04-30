@@ -56,6 +56,16 @@ To run the AI Market Analysis System, ensure that your system meets the followin
 - **Analytics Dashboard**: Get insightful analytics with just a few clicks.
 - **Multiple Agents**: Leverage multiple agents to perform various market analyses.
 - **Predictive Modeling**: Make data-driven predictions about market trends.
+- **Meridian Diagrams**: Visualize market regimes and sentiment flows with advanced meridian-based visualizations.
+
+## 📈 Meridian Diagrams
+
+Meridian diagrams provide a powerful way to understand market dynamics by mapping sentiment flows and regime transitions:
+
+- **Sentiment Flow Visualization**: Track how sentiment meridians flow through market cycles
+- **Regime Transitions**: Visualize transitions between bullish, neutral, and bearish market regimes
+- **Multi-Asset Analysis**: Analyze correlations and divergences across multiple assets using meridian mapping
+- **Real-Time Updates**: Watch meridian patterns update in real-time as market conditions change
 
 ## 🛠️ Running the Application
 
